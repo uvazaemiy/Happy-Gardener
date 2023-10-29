@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: d5878f174fcce204c8e77285ed461446
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2687
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor atlas_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1176
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 521}
+        - {x: 23, y: 645}
+        - {x: 19, y: 646}
+        - {x: -45, y: 646}
+        - {x: -57, y: 645}
+        - {x: -76, y: 646}
+        - {x: 49, y: 646}
+        - {x: 32, y: 646}
+        - {x: 30, y: 644}
+        - {x: 30, y: 522}
+        - {x: 32, y: 520}
+        - {x: 170, y: 497}
+        - {x: 171, y: 645}
+        - {x: 132, y: 646}
+        - {x: 122, y: 644}
+        - {x: 118, y: 643}
+        - {x: 92, y: 646}
+        - {x: 54, y: 646}
+        - {x: 653, y: 646}
+        - {x: 653, y: -652}
+        - {x: 658, y: -652}
+        - {x: 658, y: 652}
+        - {x: -658, y: 652}
+        - {x: -658, y: -652}
+        - {x: -651, y: -652}
+        - {x: -651, y: 646}
+        - {x: -196.84238, y: 515.2887}
+        - {x: -108, y: 520}
+        - {x: 20, y: 516}
+      - - {x: -154, y: -406}
+        - {x: -148, y: -406}
+        - {x: -146, y: -404}
+        - {x: -146, y: -269}
+        - {x: -147, y: -265}
+        - {x: -254, y: -155}
+        - {x: -577, y: -155}
+        - {x: -644, y: -231}
+        - {x: -644, y: -545}
+        - {x: -643, y: -551}
+        - {x: -608, y: -652}
+        - {x: -228, y: -652}
+        - {x: -146, y: -625}
+        - {x: -146, y: -407}
+        - {x: -149, y: -406}
+      - - {x: 186, y: -392}
+        - {x: 150, y: -497}
+        - {x: 150, y: -642}
+        - {x: 646, y: -642}
+        - {x: 646, y: -476}
+        - {x: 554, y: -392}
+      - - {x: 624, y: -314}
+        - {x: 622, y: -316}
+        - {x: 622, y: -466}
+        - {x: 624, y: -468}
+        - {x: 626, y: -468}
+        - {x: 628, y: -466}
+        - {x: 628, y: -316}
+        - {x: 626, y: -314}
+      - - {x: -373, y: -407}
+        - {x: -373, y: -406}
+        - {x: -385, y: -406}
+        - {x: -385, y: -407}
+      - - {x: 153, y: -142}
+        - {x: 150, y: -143}
+        - {x: 150, y: -364}
+        - {x: 260, y: -391}
+        - {x: 616, y: -391}
+        - {x: 646, y: -346}
+        - {x: 646, y: -142}
+      - - {x: -509, y: -163}
+        - {x: -506, y: -162}
+        - {x: -506, y: -159}
+        - {x: -509, y: -158}
+        - {x: -511, y: -160}
+      - - {x: -623, y: 112}
+        - {x: -623, y: -122}
+        - {x: -615, y: -126}
+        - {x: -373, y: -126}
+        - {x: -373, y: 111}
+        - {x: -376, y: 112}
+      - - {x: -348, y: 124}
+        - {x: -348, y: -109}
+        - {x: -345, y: -125}
+        - {x: -101, y: -125}
+        - {x: -101, y: 122}
+        - {x: -103, y: 124}
+      - - {x: -90, y: 124}
+        - {x: -90, y: -124}
+        - {x: -88, y: -125}
+        - {x: 153, y: -125}
+        - {x: 154, y: -124}
+        - {x: 154, y: 124}
+      - - {x: 488, y: 622}
+        - {x: 486, y: 620}
+        - {x: 486, y: 617}
+        - {x: 622, y: -114}
+        - {x: 628, y: -114}
+        - {x: 628, y: 622}
+      - - {x: -623, y: 358}
+        - {x: -623, y: 120}
+        - {x: -374, y: 120}
+        - {x: -368, y: 162}
+        - {x: -368, y: 358}
+      - - {x: 193, y: 330}
+        - {x: 193, y: 205}
+        - {x: 195, y: 204}
+        - {x: 318, y: 204}
+        - {x: 320, y: 206}
+        - {x: 320, y: 330}
+      - - {x: -240, y: 378}
+        - {x: -240, y: 254}
+        - {x: -234, y: 246}
+        - {x: -114, y: 246}
+        - {x: -114, y: 378}
+      - - {x: -105, y: 378}
+        - {x: -105, y: 252}
+        - {x: 22, y: 252}
+        - {x: 22, y: 378}
+      - - {x: 30, y: 376}
+        - {x: 30, y: 252}
+        - {x: 143, y: 252}
+        - {x: 160, y: 265}
+        - {x: 160, y: 378}
+        - {x: 32, y: 378}
+      - - {x: 193, y: 467}
+        - {x: 193, y: 336}
+        - {x: 320, y: 336}
+        - {x: 320, y: 467}
+      - - {x: -240, y: 512}
+        - {x: -240, y: 386}
+        - {x: -114, y: 386}
+        - {x: -114, y: 512}
+      - - {x: -105, y: 512}
+        - {x: -105, y: 387}
+        - {x: -103, y: 386}
+        - {x: 22, y: 386}
+        - {x: 22, y: 512}
+      - - {x: 30, y: 514}
+        - {x: 30, y: 386}
+        - {x: 156, y: 386}
+        - {x: 156, y: 514}
+      - - {x: 322, y: 536}
+        - {x: 322, y: 611}
+        - {x: 195, y: 611}
+        - {x: 195, y: 485}
+        - {x: 322, y: 485}
+        - {x: 322, y: 523}
+        - {x: 320, y: 525}
+      - - {x: 337, y: 611}
+        - {x: 337, y: 485}
+        - {x: 463, y: 485}
+        - {x: 463, y: 610}
+        - {x: 461, y: 611}
+      - - {x: -240, y: 646}
+        - {x: -240, y: 520}
+        - {x: -116, y: 520}
+        - {x: -114, y: 522}
+        - {x: -113, y: 549}
+        - {x: -113, y: 646}
+      - - {x: -622, y: 622}
+        - {x: -624, y: 620}
+        - {x: -624, y: 617}
+        - {x: -622, y: 615}
+        - {x: -268, y: 615}
+        - {x: -266, y: 617}
+        - {x: -266, y: 620}
+        - {x: -268, y: 622}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02899688ad3cb4949abbd04d4d6d9f2d
+      internalID: 715969163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1176
+        width: 122
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fdf3f33f1d251479df516fbf72467e
+      internalID: 24778943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1176
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999ef307dbff74478b253bf4f29e171
+      internalID: -2083258571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1139
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5646024095207ed47b493e82d91d2358
+      internalID: 1096425342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_4
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1139
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e70e7f6dea89b4d8766efea9d9679f
+      internalID: 1503064741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1042
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bbc2ff5b63d5840bd2a481214c122f
+      internalID: 1229761698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1042
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19b5da08b7dee499e1621e8ee1af31
+      internalID: 1468546117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_7
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1042
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26afd4828420964e9eb74fe201d6b4d
+      internalID: 1552531689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 990
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c24c2b8496351408da7e91164468a9
+      internalID: 1458152575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 774
+        width: 251
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1ce33917623834d9dece1c6a3f392c
+      internalID: -198042013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 906
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166dcc3c972bd1a45865eb5072b9505e
+      internalID: 1263803434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 908
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809d4a8e21411146aeca6ecf4303a5e
+      internalID: 1700309676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 907
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2ebdb7d9ef3f64da6090d919005c20
+      internalID: -1476566697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_13
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 858
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c94c7b5cde9f499c0d770eb8286c1
+      internalID: 1251125598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 528
+        width: 246
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4765c7cff058343995d1362ba853a7
+      internalID: 1930234169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 529
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5c210596f60d4f8a48d848699906a
+      internalID: -653608824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 529
+        width: 240
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6751952e5d6784eade28bc9b4d8ce1
+      internalID: 473797863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 245
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2128ce9e59008e447a0f45dd226bdd9a
+      internalID: -825133722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_18
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 246
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84021da210b6eb41980104f95549ceb
+      internalID: -1346192492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 263
+        width: 246
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20703cc4bf9a2c542ab2e3e4aedce56b
+      internalID: -1601430679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_20
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 263
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e006cc2469970c34e883b0fc5435e529
+      internalID: -1940788461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555faa0569a10ae40a90daf411cb77df
+      internalID: 1117189870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 12
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089eac8f918958a4cb36cce610144ddd
+      internalID: 1993821220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor atlas_23
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 12
+        width: 249
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6291dd2c1d404da5544b79a200732
+      internalID: -1363485105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      floor atlas_0: 715969163
+      floor atlas_1: 24778943
+      floor atlas_10: 1263803434
+      floor atlas_11: 1700309676
+      floor atlas_12: -1476566697
+      floor atlas_13: 1251125598
+      floor atlas_14: 1930234169
+      floor atlas_15: -653608824
+      floor atlas_16: 473797863
+      floor atlas_17: -825133722
+      floor atlas_18: -1346192492
+      floor atlas_19: -1601430679
+      floor atlas_2: -2083258571
+      floor atlas_20: -1940788461
+      floor atlas_21: 1117189870
+      floor atlas_22: 1993821220
+      floor atlas_23: -1363485105
+      floor atlas_3: 1096425342
+      floor atlas_4: 1503064741
+      floor atlas_5: 1229761698
+      floor atlas_6: 1468546117
+      floor atlas_7: 1552531689
+      floor atlas_8: 1458152575
+      floor atlas_9: -198042013
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
